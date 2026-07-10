@@ -9078,3 +9078,656 @@ DUE DATE 05 JAN 27"
 5789917 0157-EE JOEL J CASANELI 6F32  98-3031   07/09/2026 22:27:31 07/09/2026 23:53:39 58744148  0030    62911 T6A-A92.G201098000  OVER & ABOVE ASSEMBLY E&E/QA CREATE MAINT PLAN. THIS W/O WAS FOUND ON THE FLOOR AND IT NEVER WENT TO QA FOR AQC'S. SUPERVISOR  ASK ME TO RE SEND IT FOR AQC.  0149-WS DONNIE SEAGO  07/09/2026 22:28:50 07/09/2026 23:53:39 NDWO  NTR QA 47 DID THE AQCS ON THIS WORK ORDER             
 5789919 0157-EE JOEL J CASANELI 6C99  166244    07/09/2026 23:05:18 07/10/2026 00:01:07 58747004  0035    62911 T6B-A92.Z426000000  BACKROB REMOVE & INSTALL  E&E / QA  0149-WS DONNIE SEAGO  07/09/2026 23:05:53 07/10/2026 00:01:07 NDWO  NTR COMPLETED  BACKROB WORK ORDER 58747004              
 5789930 0269-A  JOHN LONGMUIR 6C81  166216    07/10/2026 05:29:30 07/10/2026 05:52:27 58201658  0030    62921 T6B-A92.G10369800E  INSTALL AUXILLARY POWER SUPPLY  VERIFY KELLY SHEET, AUX BATTERY 0050-WS DANIEL JOHNS  07/10/2026 05:32:01 07/10/2026 05:52:27 NDWO  WC3-8947  PRIOR TO INSTALL AUX POWER SUPPLY. SN: 82349              
+
+
+Task List                                 
+                                  
+Command     All                           
+IPT     Trainer                           
+Platform      All                           
+Current Phase     All                           
+Location_Hangar_Cell      All                           
+Site      All                           
+POC/Skill Needed      All                           
+SEQ_Buno #      All                           
+Duration      Show Entire Horizon                           
+                                  
+(Not Started:Y In Progress:Y Completed:N)                                 
+(Task Role:All)                                 
+                                  
+Color Task Type View Document Links POC SEQ_Buno  Skill Needed  Task Desc Ready To Start  Sugg./Likely Start  Task Status Rem Dur No Change Last Update Support Reqmts  Parts Mgmt  Engr  Work Stop (Help Needed) TSK UID
+ R    N 629 Wing_T6 PN227_SPARE_6C82    LH Inner Wing O&As (Zone 5.1) Y 7/10/2026 IP  9d    7/9/2026        Manpower/ Personnel(SMM Working Higher Priority) - Details: Artisans working higher priorities  140
+ R    N 629 Wing_T6 PN227_SPARE_6C82    Landing Gear O&As (Zone 7.0)  Y 7/10/2026 NS  5d              148
+ R    N 629 Wing_T6 PN227_SPARE_6C82  Engineer, JLS RH Inner Wing O&As (Zone 6.1) Y 7/10/2026 IP  0.75d   7/9/2026        "Sustaining Engineering(REQ / TEI) - Details: REQ-00273203
+
+RT FWD FLANGE CAP"  146
+ R    N 629 Repair_T6 PN222_SPARE_6C89  Engineer  600 - RH Wing Y 7/10/2026 IP  20d   7/9/2026        Sustaining Engineering(REQ / TEI) - Details: REQ-00277305 HOLE #22, #23 152
+ R    N 629 Mini_T6 6C81_166216 622 Assembly, Machinist Mini Shop Repair  Y 7/10/2026 IP  8d    7/9/2026        Maintenance Planning & Management(On Hold (Assembly WIP)) - Details: Cowling Fit Check. Waiting for Lower Aft Cowling to be Installed.  139
+ R    N 629 Fuse_T6 6C74_165978 Engineer  Fuselage O&A's  Y 7/10/2026 IP  6d    7/9/2026        Incoming Material Condition(Excessive Corrosion) - Details: Aircraft in work stop for TEXTRON engineering.  75
+ R    N 629 Fuse_T6 6F32_98-3031  629 Repair_T6_C1  Fuselage O&A's  Y 7/10/2026 IP  0.5d    7/9/2026        Manpower/ Personnel(SMM Working Higher Priority) - Details: WORKING HIGH PRI WO. POC SUPERVISOR 75
+ R    N 629 Fuse_T6 6F32_98-3031    Cockpit O&A's N 7/10/2026 NS  11d   10/31/2025          76
+ R    N 629 Fuse_T6 6F32_98-3031    Wing Task Y 7/10/2026 NS  19d   6/15/2026         148
+ R  IMS   N PS_629  PN225_SPARE_6C91    IMS-Release to F0=Airframes Repair  Y 7/10/2026 NS  0d    6/30/2026         74
+ R    N 629 Repair_T6 PN225_SPARE_6C91    500 - LH Wing N 7/10/2026 NS  30d             151
+ R    N 629 Repair_T6 PN225_SPARE_6C91  Engineer  600 - RH Wing N 7/10/2026 IP  30d   7/9/2026        Sustaining Engineering(REQ / TEI) - Details: REQs pending 152
+ R    N 629 Mini_T6 6F32_98-3031  629 Program_Office, PC_se, Program Office Mini Shop Repair  Y 7/10/2026 IP  7d    7/9/2026        Sustaining Engineering(REQ / TEI) - Details: Aircraft at long-term Work Stop for Textron Engineering  139
+ R    PT  N   6C74_165978   PT-Wing ACI inspection discrepancy report Y 7/10/2026 IP  7/17/2026   7/9/2026          147
+ R    PT  N   6C74_165978   PT-Fuselage ACI inspection discrepancy report Y 7/10/2026 IP  7/17/2026   7/9/2026          148
+ R    N 629 Mini_T6 6C88_165961 629 Program_Office, Engineer  Mini Shop Repair  Y 7/10/2026 IP  1d    7/9/2026        Incoming Material Condition(Failed Component) - Details: Direction forward TBD  139
+ R    N 629 Mini_T6 6C89_166231 Engineer  Mini Shop Repair  Y 7/10/2026 IP  5d    7/9/2026        Sustaining Engineering(REQ / TEI) - Details: REQ-00281298 139
+ R    N 629 Mini_T6 6C91_166234 Ordnance  Mini Shop Repair  Y 7/10/2026 IP  2d    7/9/2026          139
+ R  IMS   N PS_629  PN9011_SPARE    IMS-Release to F0=Airframes Repair  Y 7/10/2026 NS  0d              74
+ R    N 629 Repair_T6 PN9011_SPARE    500 - LH Wing N 7/10/2026 NS  27d             151
+ R    N 629 Repair_T6 PN9011_SPARE    600 - RH Wing N 7/10/2026 NS  27d             152
+ R    N 629 Dissy_T6  6F33_99-3559  Program Office  Pre-Strip Checks  Y 7/10/2026 IP  1d    7/9/2026        Maintenance Planning & Management(On Hold (Repair WIP)) - Details: Placed on hold per Program office direction. 122
+ R    N 629 Ground_Check  6C87_166239   Ground Check  Y 7/10/2026 IP  4d    7/10/2026       Maintenance Planning & Management(Unscheduled Maintenance) - Details: Replace PIU 95
+ R  IMS   N PS_629  PN207_SPARE_6C81    IMS-Release to F0=Airframes Repair  Y 7/10/2026 NS  0d              74
+ R    N 629 Repair_T6 PN207_SPARE_6C81    500 - LH Wing N 7/10/2026 NS  27d             151
+ R    N 629 Repair_T6 PN207_SPARE_6C81  Engineer  600 - RH Wing N 7/10/2026 NS  27d   6/26/2026       Sustaining Engineering(Engineering Directed (Additional Work)) - Details: R/H RIB 12 LWR FLANGE CRACK 152
+ R    N 629 Repair_T6 6C96_165983   500 - LH Wing Y 7/10/2026 IP  24d   7/9/2026          145
+ R    N 629 Repair_T6 6C96_165983   Center Wing Y 7/10/2026 IP  22d   7/9/2026          162
+ R    N 629 Repair_T6 6C96_165983 Machinist 100/200 - Lower/Upper Fuselage  Y 7/10/2026 IP  22d   7/9/2026          150
+ R    N Painter AC  6C92_166232   Final Paint Y 7/10/2026 IP  5d    7/10/2026         117
+ R    N 629 Ground_Check  6C90_166230   Ground Check  Y 7/10/2026 IP  3d    7/10/2026       "Maintenance Planning & Management(Unscheduled Maintenance) - Details: akrotherm application Saturday
+
+Awaiting Thermocaot"  95
+ R    N   6C96_165983   ACI Checklist Y 7/10/2026 NS  20d   7/8/2026          164
+ R    N 629 Repair_T6 6C97_166060   600 - RH Wing Y 7/10/2026 NS  27d             146
+ R    N 629 Repair_T6 6C97_166060   500 - LH Wing Y 7/10/2026 NS  27d             145
+ R    N 629 Repair_T6 6C97_166060 Comp-FG_Shop, Machinist 300 - Aft Fuselage or Empennage Y 7/10/2026 NS  27d             148
+ R    N 629 Repair_T6 6C98_166152   600 - RH Wing Y 7/10/2026 NS  27d             146
+ R    N 629 Repair_T6 6C98_166152 Comp-FG_Shop  300 - Aft Fuselage or Empennage Y 7/10/2026 NS  27d             148
+ R    N 629 Repair_T6 6C98_166152 Machinist Center Wing Y 7/10/2026 IP  27d   7/9/2026        Manpower/ Personnel(ACM Working Higher Priority) - Details: Artisans loaned out to assist other cells 152
+ R    N 629 Repair_T6 6C98_166152   500 - LH Wing Y 7/10/2026 NS  27d             145
+ R    N 629 Repair_T6 6C98_166152   100/200 - Lower/Upper Fuselage  Y 7/10/2026 IP  24d   7/9/2026        Manpower/ Personnel(ACM Working Higher Priority) - Details: Artisans loaned out to assist other cells 150
+ R    N 629 Repair_T6 6C99_166244 Machinist 300 - Aft Fuselage or Empennage Y 7/10/2026 NS  27d             148
+ R    N 629 Repair_T6 6C99_166244   500 - LH Wing Y 7/10/2026 NS  27d             145
+ R    N 629 Repair_T6 6C99_166244   600 - RH Wing Y 7/10/2026 NS  27d             146
+ R    N 629 Repair_T6 6C99_166244 Machinist Center Wing Y 7/10/2026 IP  26d   7/9/2026          152
+ R    N 629 Repair_T6 6C99_166244 Machinist, NDI  100/200 - Lower/Upper Fuselage  Y 7/10/2026 IP  26d   7/9/2026          150
+ R    N 629 Dissy_T6  6D04_166245   Pre-Strip Removals  Y 7/10/2026 IP  1d    7/10/2026         123
+ R    N 629 Dissy_T6  6D02_166018   Post Strip Disassembly  Y 7/10/2026 IP  2d    7/10/2026         67
+ R    N 629 E&E 6D01_166237 NDI E&E Second Check  Y 7/10/2026 IP  1d    7/10/2026         71
+ R    N 629 Ground_Check  6F34_05-3812    Induction Y 7/10/2026 IP  2.5d    7/10/2026         59
+ Y    N 629 Dissy_T6  6D05_166246   Pre-Strip Removals  Y 7/10/2026 NS  2d              123
+ G    N 629 Repair_T6 6C97_166060 Machinist Center Wing Y 7/10/2026 IP  19d   7/9/2026        Manpower/ Personnel(ACM Working Higher Priority) - Details: ACM LOANED OUT TO OTHER CELLS.  162
+ G    N 629 Repair_T6 6C97_166060   100/200 - Lower/Upper Fuselage  Y 7/10/2026 IP  17d   7/9/2026        Manpower/ Personnel(ACM Working Higher Priority) - Details: Artisans loaned out to assist other cells.  150
+ G    N 629 Assy_T6 6C93_166240   Initial Assembly 1  Y 7/10/2026 IP  4d    7/9/2026        Manpower/ Personnel(AC Mech (Utilities)) - Details: Man power working higher pri  87
+ G    N 629 Repair_T6 6C93_166240 629 Program_Office  Repair Supplemental Y 7/10/2026 IP  12d   7/9/2026        Supply Support(Hazardous Material) - Details: NEED THERMAL COAT AF 405 FWD BLKHD BEHIND BATT BOX. 166
+ G    N 629 Mini_T6 6C95_166243   Mini Shop Repair  Y 7/10/2026 IP  11d   7/9/2026        Supply Support(V2X) - Details: Awaiting Rib 1 P/N: 133-630023-1 139
+ LR   N 629 Mini_T6 6C99_166244   Mini Shop Repair  Y 7/10/2026 IP  30d   7/9/2026          139
+ LG   N 629 Mini_T6 6C98_166152   Mini Shop Repair  Y 7/10/2026 IP  27d   7/9/2026          139
+ LG   N 629 Repair_T6 6C96_165983   600 - RH Wing Y 7/10/2026 IP  15d   7/9/2026          146
+ LG   N 629 Repair_T6 6C96_165983 Painter Line  300 - Aft Fuselage or Empennage Y 7/10/2026 IP  7d    7/9/2026          148
+ LG   N 629 Repair_T6 PN222_SPARE_6C89    Additional Notes: Y 7/10/2026 NS  0d              153
+ LG   N 629 Mini_T6 6C97_166060   Mini Shop Repair  Y 7/10/2026 IP  24d   7/9/2026          139
+ LG   N 629 Repair_T6 6C96_165983   Spar  Y 7/10/2026 NS  0d              151
+ LG   N 629 Repair_T6 PN225_SPARE_6C91    Additional Notes: N 7/10/2026 NS  0d              153
+ R    N 629 Assy_T6 6C88_165961   Initial Assembly 1  Y*  7/13/2026 IP  0.75d   7/9/2026          87
+ R    N 629 Assy_T6 6C88_165961   Lower Aft Cowling N 7/13/2026 NS  3d              126
+ R    N 629 Fuse_T6 6C88_165961   Repair Supplemental Taskings  Y*  7/13/2026 IP  14d   7/9/2026        Sustaining Engineering(REQ / TEI) - Details: Awaiting release of listed REQs. 150
+ R    N 629 Dissy_T6  6F33_99-3559    Pre-Strip Removals  N 7/13/2026 NS  2d              123
+ LG   N 629 Mini_T6 6C96_165983   Mini Shop Repair  Y 7/13/2026 IP  3d    7/9/2026          139
+ R    N 629 Assy_T6 6C91_166234   Initial Assembly 1  Y*  7/14/2026 IP  4d    7/9/2026          87
+ R    N 629 Fuse_T6 6C91_166234   Repair Supplemental Y*  7/14/2026 IP  10d   7/9/2026          150
+ R    N Strip_Clean_AC  6D04_166245   Strip Aircraft  N 7/14/2026 NS  4d              63
+ R  IMS   N PS_629  6D04_166245   IMS-Release to C0=Strip and Prime N 7/14/2026 NS  0d              62
+ R    N 629 Repair_T6 6D01_166237   300 - Aft Fuselage or Empennage N 7/14/2026 NS  27d             148
+ R    N 629 Repair_T6 6D01_166237   500 - LH Wing N 7/14/2026 NS  27d             145
+ R    N 629 Mini_T6 6D01_166237   Mini Shop Repair  N 7/14/2026 NS  33d             139
+ R  IMS   N PS_629  6D01_166237   IMS-Release to F0=Airframes Repair  N 7/14/2026 NS  0d              74
+ R    N 629 Repair_T6 6D01_166237   Center Wing N 7/14/2026 NS  27d             152
+ R    N 629 Repair_T6 6D01_166237   100/200 - Lower/Upper Fuselage  N 7/14/2026 NS  27d             150
+ R    N 629 Repair_T6 6D01_166237   600 - RH Wing N 7/14/2026 NS  27d             146
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to C0=Strip and Prime N 7/14/2026 NS  0d              62
+ Y    N Strip_Clean_AC  6D05_166246   Strip Aircraft  N 7/14/2026 NS  4d              63
+ R    N Strip_Clean_AC  6F33_99-3559    Strip Aircraft  N 7/15/2026 NS  4d              63
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to C0=Strip and Prime N 7/15/2026 NS  0d              62
+ R  IMS   N PS_629  6C90_166230   IMS-Release to T0=Flight Test N 7/15/2026 NS  0d              98
+ R    N T0=Flight Test_D_T6 6C90_166230   Flight Test N 7/15/2026 NS  4d              99
+ R    N Painter AC  6D03_166250   Prime Aircraft  Y 7/15/2026 NS  1d              124
+ R    N 629 E&E 6D02_166018   E&E Second Check  N 7/15/2026 NS  5d              71
+ R  IMS   N PS_629  6D02_166018   IMS-Release to E0=E&E Inspection  N 7/15/2026 NS  0d              70
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to B0=Pre-Strip Disassembly N 7/15/2026 NS  0d              121
+ R    N 629 Dissy_T6  6F34_05-3812    Pre-Strip Checks  N 7/15/2026 NS  2d              122
+ R    N 629 Assy_T6 6C88_165961   Initial Assembly 2  N 7/16/2026 NS  4d              127
+ R  IMS   N PS_629  6C87_166239   IMS-Release to T0=Flight Test N 7/16/2026 NS  0d              98
+ R    N T0=Flight Test_D_T6 6C87_166239   Flight Test N 7/16/2026 NS  4d              99
+ R    N 629 Dissy_T6  6D03_166250   Post Strip Disassembly  N 7/16/2026 NS  5d              67
+ R  IMS   N PS_629  6D03_166250   IMS-Release to D0=Post Strip Disassembly  N 7/16/2026 NS  0d              66
+ G    N 629 Assy_T6 6C93_166240   Lower Aft Cowling N 7/16/2026 NS  3d              126
+ R    N 629 Assy_T6 6C89_166231   Lower Aft Cowling Y*  7/17/2026 IP  0.75d   7/9/2026        Task Delayed(Trades in Way (Composite Shop)) - Details: AWM FOR COMPOSITE SHOP TO COMPLETE WORK ON LOWER AFT COWLING PRIOR TO INSTALLING FORWARD AND AFT COWLING  126
+ R    N 629 Assy_T6 6C89_166231   Initial Assembly 2  N 7/17/2026 IP  0.2d    7/9/2026          127
+ R    N 629 Assy_T6 6C89_166231   FC Rig/OPS  N 7/17/2026 NS  5d              128
+ R    N 629 Fuse_T6 6C89_166231 629 Assy_T6_C4  Repair Supplemental Taskings  Y*  7/17/2026 IP  0.5d    7/9/2026        Manpower/ Personnel(SMM Working Higher Priority) - Details: working higher pri jobs 157
+ R    N 629 Dissy_T6  6F34_05-3812    Pre-Strip Removals  N 7/17/2026 NS  2d              123
+ R    N 629 Fuse_T6 6C74_165978   Cockpit O&A's N 7/20/2026 NS  11d   10/31/2025          76
+ R    N 629 Assy_T6 6C91_166234   Lower Aft Cowling N 7/20/2026 NS  3d              126
+ R    N H0=Final Assembly_D_T6  6C92_166232   Final Assembly  Y*  7/20/2026 NS  2d              92
+ R  IMS   N PS_629  6C92_166232   IMS-Release to H0=Final Assembly  N 7/20/2026 NS  0d              90
+ R    N Painter AC  6D04_166245   Prime Aircraft  N 7/20/2026 NS  1d              124
+ Y    N Painter AC  6D05_166246   Prime Aircraft  N 7/20/2026 NS  1d              124
+ R    N Painter AC  6F33_99-3559    Prime Aircraft  N 7/21/2026 NS  1d              124
+ R  IMS   N PS_629  6C90_166230   IMS-Release to V0=Log & Sell  N 7/21/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6C90_166230   RFI N 7/21/2026 NS  1d              108
+ R  PE    N   6C90_166230   Project End N 7/21/2026 NS  0d    1/22/2026         143
+ R    N 629 Dissy_T6  6D04_166245   Post Strip Disassembly  N 7/21/2026 NS  5d              67
+ R  IMS   N PS_629  6D04_166245   IMS-Release to D0=Post Strip Disassembly  N 7/21/2026 NS  0d              66
+ R    N Strip_Clean_AC  6F34_05-3812    Strip Aircraft  N 7/21/2026 NS  4d              63
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to C0=Strip and Prime N 7/21/2026 NS  0d              62
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to D0=Post Strip Disassembly  N 7/21/2026 NS  0d              66
+ Y    N 629 Dissy_T6  6D05_166246   Post Strip Disassembly  N 7/21/2026 NS  5d              67
+ G    N 629 Assy_T6 6C93_166240   Initial Assembly 2  N 7/21/2026 NS  4d              127
+ R    N 629 Assy_T6 6C81_166216 PC_se Initial Assembly 1  Y*  7/22/2026 IP  0.5d    7/9/2026        Task Delayed(Trades in Way (Machinist)) - Details: Work stop awaiting installation of Vertical Stab upper hinge bearing 87
+ R    N 629 Assy_T6 6C81_166216   Lower Aft Cowling N 7/22/2026 NS  2d    7/6/2026          126
+ R    N 629 Fuse_T6 6C81_166216   Repair Supplemental Y*  7/22/2026 NS  12d   6/30/2026         152
+ R    N 629 Assy_T6 6C88_165961   FC Rig/OPS  N 7/22/2026 NS  6d              128
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to D0=Post Strip Disassembly  N 7/22/2026 NS  0d              66
+ R    N 629 Dissy_T6  6F33_99-3559    Post Strip Disassembly  N 7/22/2026 NS  5d              67
+ R  IMS   N PS_629  6C87_166239   IMS-Release to V0=Log & Sell  N 7/22/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6C87_166239   RFI N 7/22/2026 NS  1d              108
+ R  PE    N   6C87_166239   Project End N 7/22/2026 NS  0d    12/22/2025          143
+ R  IMS   N PS_629  6C92_166232   IMS-Release to S0=Ground Check  N 7/22/2026 NS  0d              94
+ R    N 629 Ground_Check  6C92_166232   Ground Check  N 7/22/2026 NS  5d              95
+ R    N 629 Repair_T6 6D02_166018   300 - Aft Fuselage or Empennage N 7/22/2026 NS  27d             148
+ R    N 629 Repair_T6 6D02_166018   600 - RH Wing N 7/22/2026 NS  27d             146
+ R    N 629 Repair_T6 6D02_166018   500 - LH Wing N 7/22/2026 NS  27d             145
+ R    N 629 Mini_T6 6D02_166018   Mini Shop Repair  N 7/22/2026 NS  33d             139
+ R    N 629 Repair_T6 6D02_166018   Center Wing N 7/22/2026 NS  27d             152
+ R  IMS   N PS_629  6D02_166018   IMS-Release to F0=Airframes Repair  N 7/22/2026 NS  0d              74
+ R    N 629 Repair_T6 6D02_166018   100/200 - Lower/Upper Fuselage  N 7/22/2026 NS  27d             150
+ R    N 629 Wing_T6 PN227_SPARE_6C82    Close all Wet Bay Panels and FOD Check All Open Dry Bays  Y*  7/23/2026 NS  2d              141
+ R    N 629 Assy_T6 6C91_166234   Initial Assembly 2  N 7/23/2026 NS  4d              127
+ R    N 629 E&E 6D03_166250   E&E Second Check  N 7/23/2026 NS  5d              71
+ R  IMS   N PS_629  6D03_166250   IMS-Release to E0=E&E Inspection  N 7/23/2026 NS  0d              70
+ G    N 629 Assy_T6 6C94_166242   Lower Aft Cowling Y 7/23/2026 NS  3d    6/30/2026         126
+ LG   N 629 Repair_T6 6C97_166060   Spar  Y 7/23/2026 NS  0d              151
+ R    N 629 Assy_T6 6C81_166216   Initial Assembly 2  N 7/24/2026 NS  4d    10/31/2025          127
+ R    N 629 Assy_T6 6C89_166231   Wet Check N 7/24/2026 IP  2d    7/9/2026        Task Delayed(Trades in Way (SM Mech)) - Details: R/H wing is leaking from rib 11. 129
+ G    N 629 Repair_T6 6C94_166242 Program Office  Repair Supplemental Y 7/24/2026 IP  6d    7/9/2026        Supply Support(Hazardous Material) - Details: waiting on thermal coat AF405 164
+ LG   N 629 Repair_T6 PN9011_SPARE    Additional Notes: N 7/24/2026 NS  0d              153
+ R    N 629 Wing_T6 PN227_SPARE_6C82    Pressure Test Wing & Fix leaks  N 7/27/2026 NS  1d              145
+ R    N 629 Fuse_T6 6F32_98-3031  629 Program_Office  Engine Compartment O&A's  N 7/27/2026 NS  11d   7/6/2026        Supply Support(Hazardous Material) - Details: NEED RTV-106 NSN: 8040-01-331-7473. TO REPAIR CABLE 77
+ R    N Painter AC  6F34_05-3812    Prime Aircraft  N 7/27/2026 NS  1d              124
+ G    N 629 Assy_T6 6C93_166240   FC Rig/OPS  N 7/27/2026 NS  5d              128
+ G    N 629 Assy_T6 6C95_166243   Repair Supplemental Y*  7/27/2026 IP  11d   7/9/2026          164
+ R  IMS   N PS_629  PN227_SPARE_6C82    IMS-Release to G0=Initial Assembly  N 7/28/2026 NS  0d              86
+ R    N PS_629  PN227_SPARE_6C82    RFI N 7/28/2026 NS  1d              108
+ R  PE    N   PN227_SPARE_6C82    Project End N 7/28/2026 NS  0d    1/15/2026         152
+ R    N 629 Assy_T6 6C89_166231   Cockpit Assembly  N 7/28/2026 NS  3d              130
+ R    N 629 E&E 6D04_166245   E&E Second Check  N 7/28/2026 NS  5d              71
+ R  IMS   N PS_629  6D04_166245   IMS-Release to E0=E&E Inspection  N 7/28/2026 NS  0d              70
+ R    N 629 Dissy_T6  6F34_05-3812    Post Strip Disassembly  N 7/28/2026 NS  5d              67
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to D0=Post Strip Disassembly  N 7/28/2026 NS  0d              66
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to E0=E&E Inspection  N 7/28/2026 NS  0d              70
+ Y    N 629 E&E 6D05_166246   E&E Second Check  N 7/28/2026 NS  5d              71
+ G    N 629 Assy_T6 6C95_166243   Initial Assembly 2  Y*  7/28/2026 IP  4d    7/9/2026          127
+ G    N 629 Assy_T6 6C94_166242   FC Rig/OPS  Y*  7/28/2026 IP  4d    7/9/2026          128
+ R    N 629 Assy_T6 6C91_166234   FC Rig/OPS  N 7/29/2026 NS  5d              128
+ R    N 629 E&E 6F33_99-3559    E&E Second Check  N 7/29/2026 NS  5d              71
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to E0=E&E Inspection  N 7/29/2026 NS  0d              70
+ R    N T0=Flight Test_D_T6 6C92_166232   Flight Test N 7/29/2026 NS  4d              99
+ R  IMS   N PS_629  6C92_166232   IMS-Release to T0=Flight Test N 7/29/2026 NS  0d              98
+ LG   N 629 Repair_T6 6C98_166152   Spar  Y 7/29/2026 NS  0d              151
+ R    N 629 Assy_T6 6C81_166216   FC Rig/OPS  N 7/30/2026 NS  6d    10/31/2025          128
+ R    N 629 Assy_T6 6C88_165961   Wet Check N 7/30/2026 NS  3d              129
+ R    N 629 Mini_T6 6D03_166250   Mini Shop Repair  N 7/30/2026 NS  33d             139
+ R    N 629 Repair_T6 6D03_166250   Center Wing N 7/30/2026 NS  27d             152
+ R    N 629 Repair_T6 6D03_166250   500 - LH Wing N 7/30/2026 NS  27d             145
+ R  IMS   N PS_629  6D03_166250   IMS-Release to F0=Airframes Repair  N 7/30/2026 NS  0d              74
+ R    N 629 Repair_T6 6D03_166250   600 - RH Wing N 7/30/2026 NS  27d             146
+ R    N 629 Repair_T6 6D03_166250   100/200 - Lower/Upper Fuselage  N 7/30/2026 NS  27d             150
+ R    N 629 Repair_T6 6D03_166250   300 - Aft Fuselage or Empennage N 7/30/2026 NS  27d             148
+ R    N 629 Assy_T6 6C89_166231   Seat Install  N 7/31/2026 NS  2d              131
+ LG   N 629 Repair_T6 PN207_SPARE_6C81    Additional Notes: N 7/31/2026 NS  0d              153
+ G    N 629 Assy_T6 6C93_166240   Wet Check N 8/3/2026  NS  2d              129
+ G    N 629 Assy_T6 6C94_166242   Wet Check N 8/3/2026  NS  2d              129
+ G    N 629 Assy_T6 6C95_166243   FC Rig/OPS  N 8/3/2026  NS  5d              128
+ R    N 629 Fuse_T6 6C74_165978   Engine Compartment O&A's  N 8/4/2026  NS  11d   10/31/2025          77
+ R    N 629 Assy_T6 6C88_165961   Cockpit Assembly  N 8/4/2026  NS  3d              130
+ R    N Painter AC  6C89_166231   Final Paint N 8/4/2026  NS  7d              117
+ R  IMS   N PS_629  6C89_166231   IMS-Release to U0=Final Paint N 8/4/2026  NS  0d              116
+ R    N V0=Log Sell_D_T6  6C92_166232   RFI N 8/4/2026  NS  1d              108
+ R  IMS   N PS_629  6C92_166232   IMS-Release to V0=Log & Sell  N 8/4/2026  NS  0d              102
+ R  PE    N   6C92_166232   Project End N 8/4/2026  NS  0d    4/9/2026          143
+ R  IMS   N PS_629  6D04_166245   IMS-Release to F0=Airframes Repair  N 8/4/2026  NS  0d              74
+ R    N 629 Repair_T6 6D04_166245   100/200 - Lower/Upper Fuselage  N 8/4/2026  NS  27d             150
+ R    N 629 Repair_T6 6D04_166245   Center Wing N 8/4/2026  NS  27d             152
+ R    N 629 Repair_T6 6D04_166245   300 - Aft Fuselage or Empennage N 8/4/2026  NS  27d             148
+ R    N 629 Repair_T6 6D04_166245   600 - RH Wing N 8/4/2026  NS  27d             146
+ R    N 629 Mini_T6 6D04_166245   Mini Shop Repair  N 8/4/2026  NS  33d             139
+ R    N 629 Repair_T6 6D04_166245   500 - LH Wing N 8/4/2026  NS  27d             145
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to E0=E&E Inspection  N 8/4/2026  NS  0d              70
+ R    N 629 E&E 6F34_05-3812    E&E Second Check  N 8/4/2026  NS  5d              71
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to F0=Airframes Repair  N 8/4/2026  NS  0d              74
+ Y    N 629 Repair_T6 6D05_166246   500 - LH Wing N 8/4/2026  NS  27d             145
+ Y    N 629 Mini_T6 6D05_166246   Mini Shop Repair  N 8/4/2026  NS  33d             139
+ Y    N 629 Repair_T6 6D05_166246   Center Wing N 8/4/2026  NS  27d             152
+ Y    N 629 Repair_T6 6D05_166246   100/200 - Lower/Upper Fuselage  N 8/4/2026  NS  27d             150
+ Y    N 629 Repair_T6 6D05_166246   300 - Aft Fuselage or Empennage N 8/4/2026  NS  27d             148
+ Y    N 629 Repair_T6 6D05_166246   600 - RH Wing N 8/4/2026  NS  27d             146
+ R    N 629 Assy_T6 6C91_166234   Wet Check N 8/5/2026  NS  2d              129
+ R    N 629 Repair_T6 6F33_99-3559    500 - LH Wing N 8/5/2026  NS  27d             145
+ R    N 629 Repair_T6 6F33_99-3559    100/200 - Lower/Upper Fuselage  N 8/5/2026  NS  27d             150
+ R    N 629 Mini_T6 6F33_99-3559    Mini Shop Repair  N 8/5/2026  NS  33d             139
+ R    N 629 Repair_T6 6F33_99-3559    600 - RH Wing N 8/5/2026  NS  27d             146
+ R    N 629 Repair_T6 6F33_99-3559    300 - Aft Fuselage or Empennage N 8/5/2026  NS  27d             148
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to F0=Airframes Repair  N 8/5/2026  NS  0d              74
+ R    N 629 Repair_T6 6F33_99-3559    Center Wing N 8/5/2026  NS  26d   5/13/2026         162
+ G    N 629 Assy_T6 6C93_166240   Cockpit Assembly  N 8/5/2026  NS  3d              130
+ G    N 629 Assy_T6 6C94_166242   Cockpit Assembly  N 8/5/2026  NS  3d              130
+ LG   N 629 Repair_T6 6C99_166244   Spar  Y 8/5/2026  NS  0d              151
+ LG   N 629 Repair_T6 6F33_99-3559    Spar  N 8/5/2026  NS  0d              151
+ R  IMS   N PS_629  PN222_SPARE_6C89    IMS-Release to G0=Initial Assembly  N 8/7/2026  NS  0d              86
+ R    N PS_629  PN222_SPARE_6C89    RFI N 8/7/2026  NS  1d              108
+ R  PE    N   PN222_SPARE_6C89    Project End N 8/7/2026  NS  0d    6/2/2026          156
+ R    N 629 Assy_T6 6C81_166216   Wet Check N 8/7/2026  NS  2d    11/13/2025          129
+ R    N 629 Assy_T6 6C88_165961   Seat Install  N 8/7/2026  NS  2d              131
+ R    N 629 Assy_T6 6C91_166234   Cockpit Assembly  N 8/7/2026  NS  3d              130
+ G    N 629 Assy_T6 6C93_166240   Seat Install  N 8/10/2026 NS  2d              131
+ G    N 629 Assy_T6 6C94_166242   Seat Install  N 8/10/2026 NS  2d              131
+ R    N 629 Assy_T6 6C81_166216   Cockpit Assembly  N 8/11/2026 NS  3d    10/31/2025          130
+ R    N 629 Assy_T6 6F32_98-3031    Fuselage Install  N 8/11/2026 NS  6d    10/31/2025          136
+ R  IMS   N PS_629  6C88_165961   IMS-Release to U0=Final Paint N 8/11/2026 NS  0d              116
+ R    N Painter AC  6C88_165961   Final Paint N 8/11/2026 NS  7d              117
+ R    N 629 Mini_T6 6F34_05-3812    Mini Shop Repair  N 8/11/2026 NS  33d             139
+ R    N 629 Repair_T6 6F34_05-3812    100/200 - Lower/Upper Fuselage  N 8/11/2026 NS  27d             150
+ R    N 629 Repair_T6 6F34_05-3812    500 - LH Wing N 8/11/2026 NS  27d             145
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to F0=Airframes Repair  N 8/11/2026 NS  0d              74
+ R    N 629 Repair_T6 6F34_05-3812    600 - RH Wing N 8/11/2026 NS  27d             146
+ R    N 629 Repair_T6 6F34_05-3812    Center Wing N 8/11/2026 NS  27d             152
+ R    N 629 Repair_T6 6F34_05-3812    300 - Aft Fuselage or Empennage N 8/11/2026 NS  27d             148
+ G    N 629 Assy_T6 6C95_166243   Wet Check N 8/11/2026 NS  2d              129
+ R    N 629 Assy_T6 6C91_166234   Seat Install  N 8/12/2026 NS  2d              131
+ G    N Painter AC  6C93_166240   Final Paint N 8/12/2026 NS  7d              117
+ G  IMS   N PS_629  6C93_166240   IMS-Release to U0=Final Paint N 8/12/2026 NS  0d              116
+ G    N Painter AC  6C94_166242   Final Paint N 8/12/2026 NS  7d              117
+ G  IMS   N PS_629  6C94_166242   IMS-Release to U0=Final Paint N 8/12/2026 NS  0d              116
+ LG   N 629 Repair_T6 6D01_166237   Spar  N 8/12/2026 NS  0d              151
+ R    N H0=Final Assembly_D_T6  6C89_166231   Walk Around N 8/13/2026 NS  1d              91
+ R  IMS   N PS_629  6C89_166231   IMS-Release to H0=Final Assembly  N 8/13/2026 NS  0d              90
+ R    N 629 Repair_T6 6C96_165983   400 - Engine compartment, Spinner, Propeller  N 8/13/2026 NS  6d              147
+ G    N 629 Assy_T6 6C95_166243   Cockpit Assembly  N 8/13/2026 NS  3d              130
+ R    N 629 Assy_T6 6C81_166216   Seat Install  N 8/14/2026 NS  2d    10/31/2025          131
+ R    N H0=Final Assembly_D_T6  6C89_166231   Final Assembly  N 8/14/2026 NS  2d              92
+ R    N Painter AC  6C91_166234   Final Paint N 8/14/2026 NS  7d              117
+ R  IMS   N PS_629  6C91_166234   IMS-Release to U0=Final Paint N 8/14/2026 NS  0d              116
+ R  IMS   N PS_629  6C81_166216   IMS-Release to U0=Final Paint N 8/18/2026 NS  0d              116
+ R    N Painter AC  6C81_166216   Final Paint N 8/18/2026 NS  8d    11/13/2025          117
+ R  IMS   N PS_629  6C89_166231   IMS-Release to S0=Ground Check  N 8/18/2026 NS  0d              94
+ R    N 629 Ground_Check  6C89_166231   Ground Check  N 8/18/2026 NS  5d              95
+ R  IMS   N PS_629  PN9011_SPARE    IMS-Release to G0=Initial Assembly  N 8/18/2026 NS  0d              86
+ R    N PS_629  PN9011_SPARE    RFI N 8/18/2026 NS  1d              108
+ R  PE    N   PN9011_SPARE    Project End N 8/18/2026 NS  0d    7/7/2026          156
+ R  IMS   N PS_629  PN207_SPARE_6C81    IMS-Release to G0=Initial Assembly  N 8/18/2026 NS  0d              86
+ R    N PS_629  PN207_SPARE_6C81    RFI N 8/18/2026 NS  1d              108
+ R  PE    N   PN207_SPARE_6C81    Project End N 8/18/2026 NS  0d    6/24/2026         156
+ R    N 629 Repair_T6 6C97_166060   400 - Engine compartment, Spinner, Propeller  N 8/18/2026 NS  6d              147
+ R    N 629 Repair_T6 6C98_166152   400 - Engine compartment, Spinner, Propeller  N 8/18/2026 NS  6d              147
+ R    N 629 Repair_T6 6C99_166244   400 - Engine compartment, Spinner, Propeller  N 8/18/2026 NS  6d              147
+ G    N 629 Assy_T6 6C95_166243   Seat Install  N 8/18/2026 NS  2d              131
+ R    N 629 Assy_T6 6C74_165978   Fuselage Install  N 8/19/2026 NS  6d    10/31/2025          136
+ R  IMS   N PS_629  6F32_98-3031    IMS-Release to G0=Initial Assembly  N 8/19/2026 NS  0d              86
+ R    N 629 Assy_T6 6F32_98-3031    Initial Assembly 1  N 8/19/2026 NS  4d    10/31/2025          87
+ LG   N 629 Repair_T6 6D02_166018   Spar  N 8/19/2026 NS  0d              151
+ R  IMS   N PS_629  6C88_165961   IMS-Release to H0=Final Assembly  N 8/20/2026 NS  0d              90
+ R    N H0=Final Assembly_D_T6  6C88_165961   Walk Around N 8/20/2026 NS  1d              91
+ R    N 629 Repair_T6 6D01_166237   400 - Engine compartment, Spinner, Propeller  N 8/20/2026 NS  6d              147
+ G    N Painter AC  6C95_166243   Final Paint N 8/20/2026 NS  7d              117
+ G  IMS   N PS_629  6C95_166243   IMS-Release to U0=Final Paint N 8/20/2026 NS  0d              116
+ R    N PS_629  PN225_SPARE_6C91    RFI N 8/21/2026 NS  1d              108
+ R  IMS   N PS_629  PN225_SPARE_6C91    IMS-Release to G0=Initial Assembly  N 8/21/2026 NS  0d              86
+ R  PE    N   PN225_SPARE_6C91    Project End N 8/21/2026 NS  0d    6/26/2026         155
+ R    N H0=Final Assembly_D_T6  6C88_165961   Final Assembly  N 8/21/2026 NS  2d              92
+ R    N 629 Assy_T6 6C96_165983   Join  N 8/21/2026 NS  6d              140
+ G  IMS   N PS_629  6C93_166240   IMS-Release to H0=Final Assembly  N 8/21/2026 NS  0d              90
+ G    N H0=Final Assembly_D_T6  6C93_166240   Walk Around N 8/21/2026 NS  1d              91
+ G    N H0=Final Assembly_D_T6  6C94_166242   Walk Around N 8/21/2026 NS  1d              91
+ G  IMS   N PS_629  6C94_166242   IMS-Release to H0=Final Assembly  N 8/21/2026 NS  0d              90
+ G    N H0=Final Assembly_D_T6  6C93_166240   Final Assembly  N 8/24/2026 NS  2d              92
+ G    N H0=Final Assembly_D_T6  6C94_166242   Final Assembly  N 8/24/2026 NS  2d              92
+ R    N 629 Assy_T6 6F32_98-3031    Lower Aft Cowling N 8/25/2026 NS  3d    10/31/2025          126
+ R    N 629 Ground_Check  6C88_165961   Ground Check  N 8/25/2026 NS  5d              95
+ R  IMS   N PS_629  6C88_165961   IMS-Release to S0=Ground Check  N 8/25/2026 NS  0d              94
+ R  IMS   N PS_629  6C89_166231   IMS-Release to T0=Flight Test N 8/25/2026 NS  0d              98
+ R    N T0=Flight Test_D_T6 6C89_166231   Flight Test N 8/25/2026 NS  4d              99
+ R    N H0=Final Assembly_D_T6  6C91_166234   Walk Around N 8/25/2026 NS  1d              91
+ R  IMS   N PS_629  6C91_166234   IMS-Release to H0=Final Assembly  N 8/25/2026 NS  0d              90
+ R    N H0=Final Assembly_D_T6  6C91_166234   Final Assembly  N 8/26/2026 NS  2d              92
+ R    N 629 Assy_T6 6C97_166060   Join  N 8/26/2026 NS  6d              140
+ R    N 629 Assy_T6 6C98_166152   Join  N 8/26/2026 NS  6d              140
+ R    N 629 Assy_T6 6C99_166244   Join  N 8/26/2026 NS  6d              140
+ G    N 629 Ground_Check  6C93_166240   Ground Check  N 8/26/2026 NS  5d              95
+ G  IMS   N PS_629  6C93_166240   IMS-Release to S0=Ground Check  N 8/26/2026 NS  0d              94
+ G    N 629 Ground_Check  6C94_166242   Ground Check  N 8/26/2026 NS  5d              95
+ G  IMS   N PS_629  6C94_166242   IMS-Release to S0=Ground Check  N 8/26/2026 NS  0d              94
+ LG   N 629 Repair_T6 6D03_166250   Spar  N 8/26/2026 NS  0d              151
+ R    N 629 Assy_T6 6C74_165978   Initial Assembly 1  N 8/27/2026 NS  4d    10/31/2025          87
+ R  IMS   N PS_629  6C74_165978   IMS-Release to G0=Initial Assembly  N 8/27/2026 NS  0d              86
+ R  IMS   N PS_629  6C81_166216   IMS-Release to H0=Final Assembly  N 8/28/2026 NS  0d              90
+ R    N H0=Final Assembly_D_T6  6C81_166216   Walk Around N 8/28/2026 NS  1d    11/13/2025          91
+ R    N 629 Assy_T6 6F32_98-3031    Initial Assembly 2  N 8/28/2026 NS  4d    10/31/2025          127
+ R    N 629 Ground_Check  6C91_166234   Ground Check  N 8/28/2026 NS  5d              95
+ R  IMS   N PS_629  6C91_166234   IMS-Release to S0=Ground Check  N 8/28/2026 NS  0d              94
+ R    N 629 Repair_T6 6D02_166018   400 - Engine compartment, Spinner, Propeller  N 8/28/2026 NS  6d              147
+ R    N 629 Assy_T6 6D01_166237   Join  N 8/28/2026 NS  6d              140
+ R    N H0=Final Assembly_D_T6  6C81_166216   Final Assembly  N 8/31/2026 NS  2d    10/31/2025          92
+ R  IMS   N PS_629  6C89_166231   IMS-Release to V0=Log & Sell  N 8/31/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6C89_166231   RFI N 8/31/2026 NS  1d              108
+ R    N 629 Assy_T6 6C96_165983   Initial Assembly 1  N 8/31/2026 NS  4d              87
+ R  IMS   N PS_629  6C96_165983   IMS-Release to G0=Initial Assembly  N 8/31/2026 NS  0d              86
+ R    N 629 Repair_T6 6C96_165983   Repair Supplemental N 8/31/2026 NS  10d   7/8/2026          163
+ G    N H0=Final Assembly_D_T6  6C95_166243   Walk Around N 8/31/2026 NS  1d              91
+ G  IMS   N PS_629  6C95_166243   IMS-Release to H0=Final Assembly  N 8/31/2026 NS  0d              90
+ R  IMS   N PS_629  6C88_165961   IMS-Release to T0=Flight Test N 9/1/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6C88_165961   Flight Test N 9/1/2026  NS  5d              99
+ R  PE    N   6C89_166231   Project End N 9/1/2026  NS  0d    1/22/2026         143
+ G    N H0=Final Assembly_D_T6  6C95_166243   Final Assembly  N 9/1/2026  NS  2d              92
+ LG   N 629 Repair_T6 6D04_166245   Spar  N 9/1/2026  NS  0d              151
+ R  IMS   N PS_629  6C81_166216   IMS-Release to S0=Ground Check  N 9/2/2026  NS  0d              94
+ R    N 629 Ground_Check  6C81_166216   Ground Check  N 9/2/2026  NS  5d    10/31/2025          95
+ R    N 629 Assy_T6 6C74_165978   Lower Aft Cowling N 9/2/2026  NS  3d    10/31/2025          126
+ G  IMS   N PS_629  6C93_166240   IMS-Release to T0=Flight Test N 9/2/2026  NS  0d              98
+ G    N T0=Flight Test_D_T6 6C93_166240   Flight Test N 9/2/2026  NS  4d              99
+ G    N T0=Flight Test_D_T6 6C94_166242   Flight Test N 9/2/2026  NS  4d              99
+ G  IMS   N PS_629  6C94_166242   IMS-Release to T0=Flight Test N 9/2/2026  NS  0d              98
+ R    N 629 Assy_T6 6F32_98-3031    FC Rig/OPS  N 9/3/2026  NS  6d    10/31/2025          128
+ R  IMS   N PS_629  6C97_166060   IMS-Release to G0=Initial Assembly  N 9/3/2026  NS  0d              86
+ R    N 629 Assy_T6 6C97_166060   Initial Assembly 1  N 9/3/2026  NS  4d              87
+ R    N 629 Assy_T6 6C98_166152   Initial Assembly 1  N 9/3/2026  NS  4d              87
+ R  IMS   N PS_629  6C98_166152   IMS-Release to G0=Initial Assembly  N 9/3/2026  NS  0d              86
+ R    N 629 Repair_T6 6C97_166060   Repair Supplemental N 9/3/2026  NS  12d   6/15/2026         163
+ R    N 629 Assy_T6 6C99_166244   Initial Assembly 1  N 9/3/2026  NS  4d              87
+ R  IMS   N PS_629  6C99_166244   IMS-Release to G0=Initial Assembly  N 9/3/2026  NS  0d              86
+ G    N 629 Repair_T6 6C98_166152   Repair Supplemental N 9/3/2026  NS  12d   6/15/2026         164
+ G    N 629 Repair_T6 6C99_166244   Repair Supplemental N 9/3/2026  NS  12d   6/15/2026         164
+ G    N 629 Ground_Check  6C95_166243   Ground Check  N 9/3/2026  NS  5d              95
+ G  IMS   N PS_629  6C95_166243   IMS-Release to S0=Ground Check  N 9/3/2026  NS  0d              94
+ R    N T0=Flight Test_D_T6 6C91_166234   Flight Test N 9/4/2026  NS  4d              99
+ R  IMS   N PS_629  6C91_166234   IMS-Release to T0=Flight Test N 9/4/2026  NS  0d              98
+ R    N 629 Assy_T6 6C96_165983   Lower Aft Cowling N 9/4/2026  NS  3d              126
+ R    N 629 Assy_T6 6C74_165978   Initial Assembly 2  N 9/8/2026  NS  4d    10/31/2025          127
+ R    N 629 Repair_T6 6D03_166250   400 - Engine compartment, Spinner, Propeller  N 9/8/2026  NS  6d              147
+ R    N 629 Assy_T6 6D02_166018   Join  N 9/8/2026  NS  6d              140
+ R    N 629 Assy_T6 6D01_166237   Initial Assembly 1  N 9/8/2026  NS  4d              87
+ R  IMS   N PS_629  6D01_166237   IMS-Release to G0=Initial Assembly  N 9/8/2026  NS  0d              86
+ G    N 629 Repair_T6 6D01_166237   Repair Supplemental N 9/8/2026  NS  12d   6/15/2026         164
+ R    N V0=Log Sell_D_T6  6C88_165961   RFI N 9/9/2026  NS  1d              108
+ R  IMS   N PS_629  6C88_165961   IMS-Release to V0=Log & Sell  N 9/9/2026  NS  0d              102
+ G  IMS   N PS_629  6C93_166240   IMS-Release to V0=Log & Sell  N 9/9/2026  NS  0d              102
+ G    N V0=Log Sell_D_T6  6C93_166240   RFI N 9/9/2026  NS  1d              108
+ G    N V0=Log Sell_D_T6  6C94_166242   RFI N 9/9/2026  NS  1d              108
+ G  IMS   N PS_629  6C94_166242   IMS-Release to V0=Log & Sell  N 9/9/2026  NS  0d              102
+ LG   N 629 Repair_T6 6D05_166246   Spar  N 9/9/2026  NS  0d              151
+ R  IMS   N PS_629  6C81_166216   IMS-Release to T0=Flight Test N 9/10/2026 NS  0d              98
+ R    N T0=Flight Test_D_T6 6C81_166216   Flight Test N 9/10/2026 NS  5d    10/31/2025          99
+ R  PE    N   6C88_165961   Project End N 9/10/2026 NS  0d    1/13/2026         143
+ R    N 629 Assy_T6 6C96_165983   Initial Assembly 2  N 9/10/2026 NS  4d              127
+ R    N 629 Assy_T6 6C97_166060   Lower Aft Cowling N 9/10/2026 NS  3d              126
+ R    N 629 Assy_T6 6C98_166152   Lower Aft Cowling N 9/10/2026 NS  3d              126
+ R    N 629 Assy_T6 6C99_166244   Lower Aft Cowling N 9/10/2026 NS  3d              126
+ R    N V0=Log Sell_D_T6  6C91_166234   RFI N 9/11/2026 NS  1d              108
+ R  IMS   N PS_629  6C91_166234   IMS-Release to V0=Log & Sell  N 9/11/2026 NS  0d              102
+ R  PE    N   6C91_166234   Project End N 9/11/2026 NS  0d    2/3/2026          143
+ R    N 629 Repair_T6 6D04_166245   400 - Engine compartment, Spinner, Propeller  N 9/11/2026 NS  6d              147
+ Y    N 629 Repair_T6 6D05_166246   400 - Engine compartment, Spinner, Propeller  N 9/11/2026 NS  6d              147
+ G    N T0=Flight Test_D_T6 6C95_166243   Flight Test N 9/11/2026 NS  4d              99
+ G  IMS   N PS_629  6C95_166243   IMS-Release to T0=Flight Test N 9/11/2026 NS  0d              98
+ R    N 629 Assy_T6 6C74_165978   FC Rig/OPS  N 9/14/2026 NS  6d    10/31/2025          128
+ R    N 629 Assy_T6 6F32_98-3031    Wet Check N 9/14/2026 NS  2d    11/13/2025          129
+ R    N 629 Repair_T6 6F33_99-3559    400 - Engine compartment, Spinner, Propeller  N 9/14/2026 NS  6d              147
+ R    N 629 Assy_T6 6D01_166237   Lower Aft Cowling N 9/14/2026 NS  3d              126
+ R    N 629 Assy_T6 6C97_166060   Initial Assembly 2  N 9/15/2026 NS  4d              127
+ R    N 629 Assy_T6 6C98_166152   Initial Assembly 2  N 9/15/2026 NS  4d              127
+ R    N 629 Assy_T6 6C99_166244   Initial Assembly 2  N 9/15/2026 NS  4d              127
+ LG   N 629 Repair_T6 6F34_05-3812    Spar  N 9/15/2026 NS  0d              151
+ R    N 629 Assy_T6 6F32_98-3031    Cockpit Assembly  N 9/16/2026 NS  3d    10/31/2025          130
+ R    N 629 Assy_T6 6C96_165983   FC Rig/OPS  N 9/16/2026 NS  5d              128
+ R    N 629 Assy_T6 6D03_166250   Join  N 9/16/2026 NS  6d              140
+ R  IMS   N PS_629  6D02_166018   IMS-Release to G0=Initial Assembly  N 9/16/2026 NS  0d              86
+ R    N 629 Assy_T6 6D02_166018   Initial Assembly 1  N 9/16/2026 NS  4d              87
+ G    N 629 Repair_T6 6D02_166018   Repair Supplemental N 9/16/2026 NS  12d   6/15/2026         164
+ R  IMS   N PS_629  6C81_166216   IMS-Release to V0=Log & Sell  N 9/17/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6C81_166216   RFI N 9/17/2026 NS  1d              108
+ R    N 629 Assy_T6 6D01_166237   Initial Assembly 2  N 9/17/2026 NS  4d              127
+ G  IMS   N PS_629  6C95_166243   IMS-Release to V0=Log & Sell  N 9/17/2026 NS  0d              102
+ G    N V0=Log Sell_D_T6  6C95_166243   RFI N 9/17/2026 NS  1d              108
+ R  PE    N   6C81_166216   Project End N 9/18/2026 NS  0d    1/15/2026         142
+ R    N 629 Repair_T6 6F34_05-3812    400 - Engine compartment, Spinner, Propeller  N 9/18/2026 NS  6d              147
+ G  PE    N   6C93_166240   Project End N 9/18/2026 NS  0d    4/3/2026          145
+ R    N 629 Assy_T6 6F32_98-3031    Seat Install  N 9/21/2026 NS  2d    10/31/2025          131
+ R    N 629 Assy_T6 6C97_166060   FC Rig/OPS  N 9/21/2026 NS  5d              128
+ R    N 629 Assy_T6 6C98_166152   FC Rig/OPS  N 9/21/2026 NS  5d              128
+ R    N 629 Assy_T6 6C99_166244   FC Rig/OPS  N 9/21/2026 NS  5d              128
+ R    N 629 Assy_T6 6D04_166245   Join  N 9/21/2026 NS  6d              140
+ Y    N 629 Assy_T6 6D05_166246   Join  N 9/21/2026 NS  6d              140
+ R    N 629 Assy_T6 6C74_165978   Wet Check N 9/22/2026 NS  2d    11/13/2025          129
+ R    N 629 Assy_T6 6F33_99-3559    Join  N 9/22/2026 NS  6d              140
+ R    N 629 Assy_T6 6D02_166018   Lower Aft Cowling N 9/22/2026 NS  3d              126
+ R  IMS   N PS_629  6F32_98-3031    IMS-Release to U0=Final Paint N 9/23/2026 NS  0d              116
+ R    N Painter AC  6F32_98-3031    Final Paint N 9/23/2026 NS  8d    11/13/2025          117
+ R    N 629 Assy_T6 6C96_165983   Wet Check N 9/23/2026 NS  2d              129
+ R    N 629 Assy_T6 6D01_166237   FC Rig/OPS  N 9/23/2026 NS  5d              128
+ R    N 629 Assy_T6 6C74_165978   Cockpit Assembly  N 9/24/2026 NS  3d    10/31/2025          130
+ R  IMS   N PS_629  6D03_166250   IMS-Release to G0=Initial Assembly  N 9/24/2026 NS  0d              86
+ R    N 629 Assy_T6 6D03_166250   Initial Assembly 1  N 9/24/2026 NS  4d              87
+ LG   N 629 Repair_T6 6D03_166250   Repair Supplemental N 9/24/2026 NS  11d             153
+ R    N 629 Assy_T6 6C96_165983   Cockpit Assembly  N 9/25/2026 NS  3d              130
+ R    N 629 Assy_T6 6D02_166018   Initial Assembly 2  N 9/25/2026 NS  4d              127
+ G  PE    N   6C94_166242   Project End N 9/25/2026 NS  0d    4/14/2026         145
+ R    N 629 Assy_T6 6C97_166060   Wet Check N 9/28/2026 NS  2d              129
+ R    N 629 Assy_T6 6C98_166152   Wet Check N 9/28/2026 NS  2d              129
+ R    N 629 Assy_T6 6C99_166244   Wet Check N 9/28/2026 NS  2d              129
+ R    N 629 Assy_T6 6F34_05-3812    Join  N 9/28/2026 NS  6d              140
+ R    N 629 Assy_T6 6C74_165978   Seat Install  N 9/29/2026 NS  2d    10/31/2025          131
+ R    N 629 Assy_T6 6D04_166245   Initial Assembly 1  N 9/29/2026 NS  4d              87
+ R  IMS   N PS_629  6D04_166245   IMS-Release to G0=Initial Assembly  N 9/29/2026 NS  0d              86
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to G0=Initial Assembly  N 9/29/2026 NS  0d              86
+ Y    N 629 Assy_T6 6D05_166246   Initial Assembly 1  N 9/29/2026 NS  4d              87
+ LG   N 629 Repair_T6 6D04_166245   Repair Supplemental N 9/29/2026 NS  11d             153
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to G0=Initial Assembly  N 9/30/2026 NS  0d              86
+ R    N 629 Assy_T6 6F33_99-3559    Initial Assembly 1  N 9/30/2026 NS  4d              87
+ R    N 629 Repair_T6 6F33_99-3559    Repair Supplemental N 9/30/2026 NS  12d   6/15/2026         163
+ R    N 629 Assy_T6 6C96_165983   Seat Install  N 9/30/2026 NS  2d              131
+ R    N 629 Assy_T6 6C97_166060   Cockpit Assembly  N 9/30/2026 NS  3d              130
+ R    N 629 Assy_T6 6C98_166152   Cockpit Assembly  N 9/30/2026 NS  3d              130
+ R    N 629 Assy_T6 6C99_166244   Cockpit Assembly  N 9/30/2026 NS  3d              130
+ R    N 629 Assy_T6 6D03_166250   Lower Aft Cowling N 9/30/2026 NS  3d              126
+ R    N 629 Assy_T6 6D01_166237   Wet Check N 9/30/2026 NS  2d              129
+ R    N Painter AC  6C74_165978   Final Paint N 10/1/2026 NS  8d    11/13/2025          117
+ R  IMS   N PS_629  6C74_165978   IMS-Release to U0=Final Paint N 10/1/2026 NS  0d              116
+ R    N 629 Assy_T6 6D02_166018   FC Rig/OPS  N 10/1/2026 NS  5d              128
+ R  IMS   N PS_629  6C96_165983   IMS-Release to U0=Final Paint N 10/2/2026 NS  0d              116
+ R    N Painter AC  6C96_165983   Final Paint N 10/2/2026 NS  7d              117
+ R    N 629 Assy_T6 6D01_166237   Cockpit Assembly  N 10/2/2026 NS  3d              130
+ G  PE    N   6C95_166243   Project End N 10/2/2026 NS  0d    4/20/2026         145
+ LG   N 629 Repair_T6 6D05_166246   Repair Suuplemental N 10/2/2026 NS  10d             164
+ R  IMS   N PS_629  6F32_98-3031    IMS-Release to H0=Final Assembly  N 10/5/2026 NS  0d              90
+ R    N H0=Final Assembly_D_T6  6F32_98-3031    Walk Around N 10/5/2026 NS  1d    11/13/2025          91
+ R    N 629 Assy_T6 6C97_166060   Seat Install  N 10/5/2026 NS  2d              131
+ R    N 629 Assy_T6 6C98_166152   Seat Install  N 10/5/2026 NS  2d              131
+ R    N 629 Assy_T6 6C99_166244   Seat Install  N 10/5/2026 NS  2d              131
+ R    N 629 Assy_T6 6D03_166250   Initial Assembly 2  N 10/5/2026 NS  4d              127
+ R    N 629 Assy_T6 6D04_166245   Lower Aft Cowling N 10/5/2026 NS  3d              126
+ Y    N 629 Assy_T6 6D05_166246   Lower Aft Cowling N 10/5/2026 NS  3d              126
+ R    N H0=Final Assembly_D_T6  6F32_98-3031    Final Assembly  N 10/6/2026 NS  2d    10/31/2025          92
+ R    N 629 Assy_T6 6F33_99-3559    Lower Aft Cowling N 10/6/2026 NS  3d              126
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to G0=Initial Assembly  N 10/6/2026 NS  0d              86
+ R    N 629 Assy_T6 6F34_05-3812    Initial Assembly 1  N 10/6/2026 NS  4d              87
+ R    N Painter AC  6C97_166060   Final Paint N 10/7/2026 NS  7d              117
+ R  IMS   N PS_629  6C97_166060   IMS-Release to U0=Final Paint N 10/7/2026 NS  0d              116
+ R  IMS   N PS_629  6C98_166152   IMS-Release to U0=Final Paint N 10/7/2026 NS  0d              116
+ R    N Painter AC  6C98_166152   Final Paint N 10/7/2026 NS  7d              117
+ R  IMS   N PS_629  6C99_166244   IMS-Release to U0=Final Paint N 10/7/2026 NS  0d              116
+ R    N Painter AC  6C99_166244   Final Paint N 10/7/2026 NS  7d              117
+ R    N 629 Assy_T6 6D01_166237   Seat Install  N 10/7/2026 NS  2d              131
+ LG   N 629 Repair_T6 6F34_05-3812    Repair Supplemental N 10/7/2026 NS  11d             153
+ R  IMS   N PS_629  6F32_98-3031    IMS-Release to S0=Ground Check  N 10/8/2026 NS  0d              94
+ R    N 629 Ground_Check  6F32_98-3031    Ground Check  N 10/8/2026 NS  5d    10/31/2025          95
+ R    N 629 Assy_T6 6D04_166245   Initial Assembly 2  N 10/8/2026 NS  4d              127
+ R    N 629 Assy_T6 6D02_166018   Wet Check N 10/8/2026 NS  2d              129
+ Y    N 629 Assy_T6 6D05_166246   Initial Assembly 2  N 10/8/2026 NS  4d              127
+ R    N 629 Assy_T6 6F33_99-3559    Initial Assembly 2  N 10/9/2026 NS  4d              127
+ R    N 629 Assy_T6 6D03_166250   FC Rig/OPS  N 10/9/2026 NS  5d              128
+ R  IMS   N PS_629  6D01_166237   IMS-Release to U0=Final Paint N 10/9/2026 NS  0d              116
+ R    N Painter AC  6D01_166237   Final Paint N 10/9/2026 NS  7d              117
+ R    N 629 Assy_T6 6D02_166018   Cockpit Assembly  N 10/13/2026  NS  3d              130
+ R    N 629 Assy_T6 6F34_05-3812    Lower Aft Cowling N 10/13/2026  NS  3d              126
+ R    N 629 Ground_Check  6C74_165978   Walk Around N 10/14/2026  NS  1d    11/13/2025          91
+ R  IMS   N PS_629  6C74_165978   IMS-Release to H0=Final Assembly  N 10/14/2026  NS  0d              90
+ R  IMS   N PS_629  6C96_165983   IMS-Release to H0=Final Assembly  N 10/14/2026  NS  0d              90
+ R    N H0=Final Assembly_D_T6  6C96_165983   Walk Around N 10/14/2026  NS  1d              91
+ R    N 629 Ground_Check  6C74_165978   Final Assembly  N 10/15/2026  NS  2d    10/31/2025          92
+ R    N H0=Final Assembly_D_T6  6C96_165983   Final Assembly  N 10/15/2026  NS  2d              92
+ R    N 629 Assy_T6 6D04_166245   FC Rig/OPS  N 10/15/2026  NS  5d              128
+ Y    N 629 Assy_T6 6D05_166246   FC Rig/OPS  N 10/15/2026  NS  5d              128
+ R  IMS   N PS_629  6F32_98-3031    IMS-Release to T0=Flight Test N 10/16/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6F32_98-3031    Flight Test N 10/16/2026  NS  5d    10/31/2025          99
+ R    N 629 Assy_T6 6F33_99-3559    FC Rig/OPS  N 10/16/2026  NS  5d              128
+ R    N 629 Assy_T6 6D02_166018   Seat Install  N 10/16/2026  NS  2d              131
+ R    N 629 Assy_T6 6F34_05-3812    Initial Assembly 2  N 10/16/2026  NS  4d              127
+ R    N 629 Ground_Check  6C74_165978   Ground Check  N 10/19/2026  NS  5d    10/31/2025          95
+ R  IMS   N PS_629  6C74_165978   IMS-Release to S0=Ground Check  N 10/19/2026  NS  0d              94
+ R    N 629 Ground_Check  6C96_165983   Ground Check  N 10/19/2026  NS  5d              95
+ R  IMS   N PS_629  6C96_165983   IMS-Release to S0=Ground Check  N 10/19/2026  NS  0d              94
+ R    N H0=Final Assembly_D_T6  6C97_166060   Walk Around N 10/19/2026  NS  1d              91
+ R  IMS   N PS_629  6C97_166060   IMS-Release to H0=Final Assembly  N 10/19/2026  NS  0d              90
+ R  IMS   N PS_629  6C98_166152   IMS-Release to H0=Final Assembly  N 10/19/2026  NS  0d              90
+ R    N H0=Final Assembly_D_T6  6C98_166152   Walk Around N 10/19/2026  NS  1d              91
+ R    N H0=Final Assembly_D_T6  6C99_166244   Walk Around N 10/19/2026  NS  1d              91
+ R  IMS   N PS_629  6C99_166244   IMS-Release to H0=Final Assembly  N 10/19/2026  NS  0d              90
+ R    N 629 Assy_T6 6D03_166250   Wet Check N 10/19/2026  NS  2d              129
+ R    N H0=Final Assembly_D_T6  6C97_166060   Final Assembly  N 10/20/2026  NS  2d              92
+ R    N H0=Final Assembly_D_T6  6C98_166152   Final Assembly  N 10/20/2026  NS  2d              92
+ R    N H0=Final Assembly_D_T6  6C99_166244   Final Assembly  N 10/20/2026  NS  2d              92
+ R    N Painter AC  6D02_166018   Final Paint N 10/20/2026  NS  7d              117
+ R  IMS   N PS_629  6D02_166018   IMS-Release to U0=Final Paint N 10/20/2026  NS  0d              116
+ R    N 629 Assy_T6 6D03_166250   Cockpit Assembly  N 10/21/2026  NS  3d              130
+ R    N H0=Final Assembly_D_T6  6D01_166237   Walk Around N 10/21/2026  NS  1d              91
+ R  IMS   N PS_629  6D01_166237   IMS-Release to H0=Final Assembly  N 10/21/2026  NS  0d              90
+ R  IMS   N PS_629  6C97_166060   IMS-Release to S0=Ground Check  N 10/22/2026  NS  0d              94
+ R    N 629 Ground_Check  6C97_166060   Ground Check  N 10/22/2026  NS  5d              95
+ R    N 629 Ground_Check  6C98_166152   Ground Check  N 10/22/2026  NS  5d              95
+ R  IMS   N PS_629  6C98_166152   IMS-Release to S0=Ground Check  N 10/22/2026  NS  0d              94
+ R    N 629 Ground_Check  6C99_166244   Ground Check  N 10/22/2026  NS  5d              95
+ R  IMS   N PS_629  6C99_166244   IMS-Release to S0=Ground Check  N 10/22/2026  NS  0d              94
+ R    N 629 Assy_T6 6D04_166245   Wet Check N 10/22/2026  NS  2d              129
+ R    N H0=Final Assembly_D_T6  6D01_166237   Final Assembly  N 10/22/2026  NS  2d              92
+ R    N 629 Assy_T6 6F34_05-3812    FC Rig/OPS  N 10/22/2026  NS  5d              128
+ Y    N 629 Assy_T6 6D05_166246   Wet Check N 10/22/2026  NS  2d              129
+ R  IMS   N PS_629  6F32_98-3031    IMS-Release to V0=Log & Sell  N 10/23/2026  NS  0d              102
+ R    N V0=Log Sell_D_T6  6F32_98-3031    RFI N 10/23/2026  NS  1d              108
+ R    N 629 Assy_T6 6F33_99-3559    Wet Check N 10/23/2026  NS  2d              129
+ R    N 629 Ground_Check  6C74_165978   Flight Test N 10/26/2026  NS  5d    10/31/2025          99
+ R  IMS   N PS_629  6C74_165978   IMS-Release to T0=Flight Test N 10/26/2026  NS  0d              98
+ R  PE    N   6F32_98-3031    Project End N 10/26/2026  NS  0d    2/18/2026         142
+ R    N T0=Flight Test_D_T6 6C96_165983   Flight Test N 10/26/2026  NS  4d              99
+ R  IMS   N PS_629  6C96_165983   IMS-Release to T0=Flight Test N 10/26/2026  NS  0d              98
+ R    N 629 Assy_T6 6D03_166250   Seat Install  N 10/26/2026  NS  2d              131
+ R    N 629 Assy_T6 6D04_166245   Cockpit Assembly  N 10/26/2026  NS  3d              130
+ R    N 629 Ground_Check  6D01_166237   Ground Check  N 10/26/2026  NS  5d              95
+ R  IMS   N PS_629  6D01_166237   IMS-Release to S0=Ground Check  N 10/26/2026  NS  0d              94
+ Y    N 629 Assy_T6 6D05_166246   Cockpit Assembly  N 10/26/2026  NS  3d              130
+ R    N 629 Assy_T6 6F33_99-3559    Cockpit Assembly  N 10/27/2026  NS  3d              130
+ R    N Painter AC  6D03_166250   Final Paint N 10/28/2026  NS  7d              117
+ R  IMS   N PS_629  6D03_166250   IMS-Release to U0=Final Paint N 10/28/2026  NS  0d              116
+ R  IMS   N PS_629  6C97_166060   IMS-Release to T0=Flight Test N 10/29/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6C97_166060   Flight Test N 10/29/2026  NS  4d              99
+ R  IMS   N PS_629  6C98_166152   IMS-Release to T0=Flight Test N 10/29/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6C98_166152   Flight Test N 10/29/2026  NS  4d              99
+ R  IMS   N PS_629  6C99_166244   IMS-Release to T0=Flight Test N 10/29/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6C99_166244   Flight Test N 10/29/2026  NS  4d              99
+ R    N 629 Assy_T6 6D04_166245   Seat Install  N 10/29/2026  NS  2d              131
+ R  IMS   N PS_629  6D02_166018   IMS-Release to H0=Final Assembly  N 10/29/2026  NS  0d              90
+ R    N H0=Final Assembly_D_T6  6D02_166018   Walk Around N 10/29/2026  NS  1d              91
+ R    N 629 Assy_T6 6F34_05-3812    Wet Check N 10/29/2026  NS  2d              129
+ Y    N 629 Assy_T6 6D05_166246   Seat Install  N 10/29/2026  NS  2d              131
+ R    N 629 Assy_T6 6F33_99-3559    Seat Install  N 10/30/2026  NS  2d              131
+ R    N V0=Log Sell_D_T6  6C96_165983   RFI N 10/30/2026  NS  1d              108
+ R  IMS   N PS_629  6C96_165983   IMS-Release to V0=Log & Sell  N 10/30/2026  NS  0d              102
+ R  PE    N   6C96_165983   Project End N 10/30/2026  NS  0d    4/23/2026         154
+ R    N H0=Final Assembly_D_T6  6D02_166018   Final Assembly  N 10/30/2026  NS  2d              92
+ R  IMS   N PS_629  6C74_165978   IMS-Release to V0=Log & Sell  N 11/2/2026 NS  0d              102
+ R    N   6C74_165978   RFI N 11/2/2026 NS  1d              108
+ R  PE    N   6C74_165978   Project End N 11/2/2026 NS  0d    5/7/2026          142
+ R    N Painter AC  6D04_166245   Final Paint N 11/2/2026 NS  7d              117
+ R  IMS   N PS_629  6D04_166245   IMS-Release to U0=Final Paint N 11/2/2026 NS  0d              116
+ R  IMS   N PS_629  6D01_166237   IMS-Release to T0=Flight Test N 11/2/2026 NS  0d              98
+ R    N T0=Flight Test_D_T6 6D01_166237   Flight Test N 11/2/2026 NS  4d              99
+ R    N 629 Assy_T6 6F34_05-3812    Cockpit Assembly  N 11/2/2026 NS  3d              130
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to U0=Final Paint N 11/2/2026 NS  0d              116
+ Y    N Painter AC  6D05_166246   Final Paint N 11/2/2026 NS  7d              117
+ R    N Painter AC  6F33_99-3559    Final Paint N 11/3/2026 NS  7d              117
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to U0=Final Paint N 11/3/2026 NS  0d              116
+ R    N 629 Ground_Check  6D02_166018   Ground Check  N 11/3/2026 NS  5d              95
+ R  IMS   N PS_629  6D02_166018   IMS-Release to S0=Ground Check  N 11/3/2026 NS  0d              94
+ R  IMS   N PS_629  6C97_166060   IMS-Release to V0=Log & Sell  N 11/4/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6C97_166060   RFI N 11/4/2026 NS  1d              108
+ R  PE    N   6C97_166060   Project End N 11/4/2026 NS  0d    5/19/2026         154
+ R    N V0=Log Sell_D_T6  6C98_166152   RFI N 11/4/2026 NS  1d              108
+ R  IMS   N PS_629  6C98_166152   IMS-Release to V0=Log & Sell  N 11/4/2026 NS  0d              102
+ R  PE    N   6C98_166152   Project End N 11/4/2026 NS  0d    5/19/2026         155
+ R    N V0=Log Sell_D_T6  6C99_166244   RFI N 11/4/2026 NS  1d              108
+ R  IMS   N PS_629  6C99_166244   IMS-Release to V0=Log & Sell  N 11/4/2026 NS  0d              102
+ R    N 629 Assy_T6 6F34_05-3812    Seat Install  N 11/5/2026 NS  2d              131
+ R  IMS   N PS_629  6D03_166250   IMS-Release to H0=Final Assembly  N 11/6/2026 NS  0d              90
+ R    N H0=Final Assembly_D_T6  6D03_166250   Walk Around N 11/6/2026 NS  1d              91
+ R  IMS   N PS_629  6D01_166237   IMS-Release to V0=Log & Sell  N 11/6/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6D01_166237   RFI N 11/6/2026 NS  1d              108
+ R    N H0=Final Assembly_D_T6  6D03_166250   Final Assembly  N 11/9/2026 NS  2d              92
+ R    N Painter AC  6F34_05-3812    Final Paint N 11/9/2026 NS  7d              117
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to U0=Final Paint N 11/9/2026 NS  0d              116
+ R  PE    N   6C99_166244   Project End N 11/10/2026  NS  0d    6/1/2026          155
+ R    N T0=Flight Test_D_T6 6D02_166018   Flight Test N 11/10/2026  NS  4d              99
+ R  IMS   N PS_629  6D02_166018   IMS-Release to T0=Flight Test N 11/10/2026  NS  0d              98
+ R  IMS   N PS_629  6D03_166250   IMS-Release to S0=Ground Check  N 11/12/2026  NS  0d              94
+ R    N 629 Ground_Check  6D03_166250   Ground Check  N 11/12/2026  NS  5d              95
+ R    N H0=Final Assembly_D_T6  6D04_166245   Walk Around N 11/12/2026  NS  1d              91
+ R  IMS   N PS_629  6D04_166245   IMS-Release to H0=Final Assembly  N 11/12/2026  NS  0d              90
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to H0=Final Assembly  N 11/12/2026  NS  0d              90
+ Y    N H0=Final Assembly_D_T6  6D05_166246   Walk Around N 11/12/2026  NS  1d              91
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to H0=Final Assembly  N 11/13/2026  NS  0d              90
+ R    N H0=Final Assembly_D_T6  6F33_99-3559    Walk Around N 11/13/2026  NS  1d              91
+ R    N H0=Final Assembly_D_T6  6D04_166245   Final Assembly  N 11/13/2026  NS  2d              92
+ Y    N H0=Final Assembly_D_T6  6D05_166246   Final Assembly  N 11/13/2026  NS  2d              92
+ R    N H0=Final Assembly_D_T6  6F33_99-3559    Final Assembly  N 11/16/2026  NS  2d              92
+ R    N 629 Ground_Check  6D04_166245   Ground Check  N 11/17/2026  NS  5d              95
+ R  IMS   N PS_629  6D04_166245   IMS-Release to S0=Ground Check  N 11/17/2026  NS  0d              94
+ R  IMS   N PS_629  6D02_166018   IMS-Release to V0=Log & Sell  N 11/17/2026  NS  0d              102
+ R    N V0=Log Sell_D_T6  6D02_166018   RFI N 11/17/2026  NS  1d              108
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to S0=Ground Check  N 11/17/2026  NS  0d              94
+ Y    N 629 Ground_Check  6D05_166246   Ground Check  N 11/17/2026  NS  5d              95
+ R    N 629 Ground_Check  6F33_99-3559    Ground Check  N 11/18/2026  NS  5d              95
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to S0=Ground Check  N 11/18/2026  NS  0d              94
+ R  PE    N   6D01_166237   Project End N 11/18/2026  NS  0d    6/4/2026          155
+ R  IMS   N PS_629  6D03_166250   IMS-Release to T0=Flight Test N 11/19/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6D03_166250   Flight Test N 11/19/2026  NS  4d              99
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to H0=Final Assembly  N 11/19/2026  NS  0d              90
+ R    N H0=Final Assembly_D_T6  6F34_05-3812    Walk Around N 11/19/2026  NS  1d              91
+ R    N H0=Final Assembly_D_T6  6F34_05-3812    Final Assembly  N 11/20/2026  NS  2d              92
+ R  IMS   N PS_629  6D04_166245   IMS-Release to T0=Flight Test N 11/24/2026  NS  0d              98
+ R    N T0=Flight Test_D_T6 6D04_166245   Flight Test N 11/24/2026  NS  4d              99
+ R    N 629 Ground_Check  6F34_05-3812    Ground Check  N 11/24/2026  NS  5d              95
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to S0=Ground Check  N 11/24/2026  NS  0d              94
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to T0=Flight Test N 11/24/2026  NS  0d              98
+ Y    N T0=Flight Test_D_T6 6D05_166246   Flight Test N 11/24/2026  NS  4d              99
+ R    N T0=Flight Test_D_T6 6F33_99-3559    Flight Test N 11/25/2026  NS  4d              99
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to T0=Flight Test N 11/25/2026  NS  0d              98
+ R    N V0=Log Sell_D_T6  6D03_166250   RFI N 11/25/2026  NS  1d              108
+ R  IMS   N PS_629  6D03_166250   IMS-Release to V0=Log & Sell  N 11/25/2026  NS  0d              102
+ R  PE    N   6D02_166018   Project End N 11/25/2026  NS  0d    6/11/2026         155
+ R    N V0=Log Sell_D_T6  6D04_166245   RFI N 12/2/2026 NS  1d              108
+ R  IMS   N PS_629  6D04_166245   IMS-Release to V0=Log & Sell  N 12/2/2026 NS  0d              102
+ Y  IMS   N PS_629  6D05_166246   IMS-Release to V0=Log & Sell  N 12/2/2026 NS  0d              102
+ Y    N V0=Log Sell_D_T6  6D05_166246   RFI N 12/2/2026 NS  1d              108
+ R    N V0=Log Sell_D_T6  6F33_99-3559    RFI N 12/3/2026 NS  1d              108
+ R  IMS   N PS_629  6F33_99-3559    IMS-Release to V0=Log & Sell  N 12/3/2026 NS  0d              102
+ R  PE    N   6F33_99-3559    Project End N 12/3/2026 NS  0d    4/29/2026         154
+ R    N T0=Flight Test_D_T6 6F34_05-3812    Flight Test N 12/3/2026 NS  4d              99
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to T0=Flight Test N 12/3/2026 NS  0d              98
+ R  PE    N   6D03_166250   Project End N 12/4/2026 NS  0d    6/16/2026         156
+ R  IMS   N PS_629  6F34_05-3812    IMS-Release to V0=Log & Sell  N 12/9/2026 NS  0d              102
+ R    N V0=Log Sell_D_T6  6F34_05-3812    RFI N 12/9/2026 NS  1d              108
+ R  PE    N   6D04_166245   Project End N 12/10/2026  NS  0d    6/24/2026         156
+ Y  PE    N   6D05_166246   Project End N 12/17/2026  NS  0d    7/6/2026          155
+ R  PE    N   6F34_05-3812    Project End N 12/23/2026  NS  0d    7/8/2026          156
